@@ -1,0 +1,13 @@
+inherit python-wheel
+
+NAME="python-ptyprocess"
+VERSION=0.5.1
+RELEASE=1
+CATEGORY="Python"
+SUMMARY="Python module for running subprocess in pseudo terminal"
+DESCRIPTION="Launch a subprocess in a pseudo terminal (pty), and interact with
+both the process and its pty."
+
+PATCH_URI="0.5.1-wheel.patch"
+
+ARCH=noarch
