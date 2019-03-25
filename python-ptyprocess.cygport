@@ -1,7 +1,7 @@
 inherit python-wheel
 
 NAME="python-ptyprocess"
-VERSION=0.5.1
+VERSION=0.6.0
 RELEASE=1
 CATEGORY="Python"
 SUMMARY="Python module for running subprocess in pseudo terminal"
